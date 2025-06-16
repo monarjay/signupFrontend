@@ -52,7 +52,7 @@ export default {
       name: '',
       email: '',
       signups: [],
-      API_BASE: 'https://signupbackend-qcy6.onrender.com' // Change to Render URL in production
+      API_BASE: 'https://signupbackend-j93j.onrender.com' // Change to Render URL in production
     }
   },
   methods: {
